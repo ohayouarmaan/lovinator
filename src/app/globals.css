@@ -162,6 +162,7 @@ body {
     linear-gradient(90deg, rgba(182, 151, 125, 0.5) 1px, rgba(192, 168, 145, 0.5) 1px);
   background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
   background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
+  font-size: 10px;
 }
 
 .animate-fade-in {
